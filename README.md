@@ -108,8 +108,6 @@ The data consists of two CSV files for 2020 and 2021 sales. Each file includes c
 
 ---
 
-## License
-This project is licensed under the MIT License. Feel free to use and adapt the code for personal or professional purposes.
 
 ## **References**
 Chatgpt was used to troubleshoot self generated code.
